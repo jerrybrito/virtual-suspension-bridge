@@ -1,0 +1,1 @@
+pseudo-eternity>=0.9.47
